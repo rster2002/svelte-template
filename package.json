@@ -1,6 +1,6 @@
 {
-    "name": "super-ov",
-    "version": "0.0.1",
+    "name": "<app name>",
+    "version": "1.0.0",
     "scripts": {
         "build": "rollup -c",
         "dev": "rollup -c -w",
@@ -17,13 +17,11 @@
         "rollup-plugin-livereload": "^1.0.0",
         "rollup-plugin-svelte": "^5.0.3",
         "rollup-plugin-terser": "^5.1.2",
-        "svelte": "^3.0.0"
+        "svelte": "^3.0.0",
+        "svelte-preprocess": "^3.3.0"
     },
     "dependencies": {
-        "decode-google-map-polyline": "^1.0.1",
-        "fastdb": "^0.0.4",
         "sirv-cli": "^0.4.4",
-        "svelte-preprocess": "^3.3.0",
         "svelte-spa-router": "^2.0.1"
     }
 }
