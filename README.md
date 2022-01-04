@@ -1,5 +1,17 @@
 # Svelte Template
 
-This is actually more something for my own projects, but you can use it if you want.
+I made this template more or less for myself, but feel free to use it. To install this template in your correct 
+directory, run:
 
-This template contains support for SCSS and adds "@" as an alias for the src folder. Nothing special or complicated but nice to not have to configure all the time.
+```bash
+npx degit rster2002/svelte-template .
+```
+
+## Features
+
+This template comes pre-configured with:
+
+* ⚡️ Vite for lightning fast development;
+* 🗺 Alias for the 'src' directory using '@';
+* 🎨 SCSS for easy styling;
+* 🔀 Cross-env for development on Windows machines.
