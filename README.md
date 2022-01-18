@@ -12,7 +12,7 @@ npx degit rster2002/svelte-template#typescript .
 This template comes pre-configured with:
 
 * ⚡️ Vite for lightning fast development;
-* 💪 Typscript for strongly typed code;
+* 💪 Typescript for strongly typed code;
 * 🗺 Alias for the 'src' directory using '@';
 * 🎨 SCSS for easy styling;
 * 🔀 Cross-env for development on Windows machines.
